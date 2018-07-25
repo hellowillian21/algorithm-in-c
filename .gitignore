@@ -1,0 +1,5 @@
+algorithm.dev
+algorithm.exe
+algorithm.layout
+Makefile.win
+*.o
