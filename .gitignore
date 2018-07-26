@@ -1,5 +1,7 @@
-algorithm.dev
-algorithm.exe
+*.dev
+*.exe
 algorithm.layout
 Makefile.win
 *.o
+*.exe
+*.layout
