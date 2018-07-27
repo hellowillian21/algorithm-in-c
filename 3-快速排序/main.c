@@ -1,4 +1,5 @@
-#include <iostream>
+#include <stdio.h>
+
 int a[101], n; // 定义全局变量，这两个变量需要在子函数中使用
 
 void quicksort(int left, int right) {
